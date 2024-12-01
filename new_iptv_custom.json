@@ -1,6 +1,6 @@
 {
   "showDefaultURL": true,
-  "showCustomURL": true,
+  "showCustomURL": false,
   "customURL": [
     {
       "type":"tv",
