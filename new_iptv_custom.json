@@ -105,6 +105,14 @@
             "tvgLogo": "https://i.imgur.com/A1xzjOI.png",
             "groupTitle": "News",
             "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-        }
+        },
+        {
+            "type": "web",
+            "title": "Msnbc Live",
+            "tvgId": "1",
+            "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
+            "groupTitle": "News",
+            "streamUrl": "https://cdn.streamlive.to/live/streamlive-sd/streamlive-sd/21551.m3u8"
+        },
     ]
 }
