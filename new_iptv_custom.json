@@ -3,7 +3,7 @@
   "showCustomURL": true,
   "customURL": [
     {
-      "type":"web",
+      "type":"tv",
       "title":"WEB",
       "tvgId":"1",
       "tvgLogo":"https://s3.amazonaws.com/content.newsok.com/newsok/images/mobile/play_button.png",
