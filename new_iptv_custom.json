@@ -3,12 +3,12 @@
   "showCustomURL": true,
   "customURL": [
     {
-      "type":"tv",
+      "type":"web",
       "title":"Demo 1",
       "tvgId":"1",
       "tvgLogo":"https://s3.amazonaws.com/content.newsok.com/newsok/images/mobile/play_button.png",
       "groupTitle":"Demo",
-      "streamUrl":"http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8"
+      "streamUrl":"https://cdn.streamlive.to/live/streamlive-sd/streamlive-sd/21551.m3u8"
    },{
       "type":"tv",
       "title":"Demo 2",
