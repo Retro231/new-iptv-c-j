@@ -8,12 +8,26 @@
             "tvgId": "1",
             "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
             "groupTitle": "News",
+            "streamUrl": "https://stream.livenewspro.com:1936/msnbcpro/msnbcpro/chunklist_w1681592027_DVR_tkc2VjZW5kdGltZT0xNzM0MTkyMjI5JnNlY2hhc2g9SEhENGVUaVQ4bVpUbkpiakkzR1JsTTZQX0QyNk5RY1FJNk12TUtycDl4WT0mc2Vjc3RhcnR0aW1lPTE3MzQxMDU4Mjk=.m3u8"
+        }, {
+            "type": "tv",
+            "title": "Msnbc Live",
+            "tvgId": "2",
+            "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
+            "groupTitle": "News",
+            "streamUrl": "https://tx1.nexgen.bz/MSNBC/index.m3u8"
+        }, {
+            "type": "tv",
+            "title": "Msnbc Live",
+            "tvgId": "3",
+            "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
+            "groupTitle": "News",
             "streamUrl": "https://tx1.nexgen.bz/MSNBC/index.m3u8"
         },
         {
             "type": "tv",
             "title": "CNN Live",
-            "tvgId": "2",
+            "tvgId": "4",
             "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",
             "groupTitle": "News",
             "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
@@ -21,7 +35,7 @@
         {
             "type": "tv",
             "title": "CBS Live",
-            "tvgId": "3",
+            "tvgId": "5",
             "tvgLogo": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1280x720/bf32ff81a7966653519a0c98feb5d329/cbsnews-1920x1080.jpg",
             "groupTitle": "News",
             "streamUrl": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
@@ -29,7 +43,7 @@
         {
             "type": "tv",
             "title": "FOX News Live",
-            "tvgId": "4",
+            "tvgId": "6",
             "tvgLogo": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
             "groupTitle": "News",
             "streamUrl": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8"
@@ -37,7 +51,7 @@
         {
             "type": "tv",
             "title": "NEWSMAX Live",
-            "tvgId": "5",
+            "tvgId": "7",
             "tvgLogo": "https://thestreamable.com/media/pages/news/one-america-news-networks-rival-newsmax-is-dropped-from-atlantic-broadband-and-other-cable-operators/02f2b5b6c3-1643063287/thumbh_20210609_193820.jpg",
             "groupTitle": "News",
             "streamUrl": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index_720.m3u8"
@@ -45,7 +59,7 @@
         {
             "type": "tv",
             "title": "NBC Live",
-            "tvgId": "6",
+            "tvgId": "8",
             "tvgLogo": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg",
             "groupTitle": "News",
             "streamUrl": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8"
@@ -53,7 +67,7 @@
         {
             "type": "tv",
             "title": "CBSN NEWS",
-            "tvgId": "7",
+            "tvgId": "9",
             "tvgLogo": "https://cdn.mos.cms.futurecdn.net/E56hRNyMarA6ESgaVJ24Vn-320-80.jpg",
             "groupTitle": "News",
             "streamUrl": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8"
@@ -61,7 +75,7 @@
         {
             "type": "tv",
             "title": "ONE America News",
-            "tvgId": "8",
+            "tvgId": "10",
             "tvgLogo": "https://media.licdn.com/dms/image/C560BAQHltTIb2FJPXA/company-logo_200_200/0/1519891966895?e=2147483647&v=beta&t=kSw-z_sMm82hKDp5RCvO7e0ap99WJsOR5a-nbRhxPZU",
             "groupTitle": "News",
             "streamUrl": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8"
@@ -69,7 +83,7 @@
         {
             "type": "tv",
             "title": "ABC NEWS LIVE",
-            "tvgId": "9",
+            "tvgId": "11",
             "tvgLogo": "https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png",
             "groupTitle": "News",
             "streamUrl": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
@@ -77,7 +91,7 @@
         {
             "type": "tv",
             "title": "BBC America",
-            "tvgId": "10",
+            "tvgId": "12",
             "tvgLogo": "https://www.livenewsmag.com/wp-content/uploads/2016/09/BBC-World-News-Live-Stream-2.png",
             "groupTitle": "News",
             "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
@@ -85,7 +99,7 @@
         {
             "type": "tv",
             "title": "Al Jezeera",
-            "tvgId": "11",
+            "tvgId": "13",
             "tvgLogo": "https://m.media-amazon.com/images/I/31AIdoYz1sL.png",
             "groupTitle": "News",
             "streamUrl": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"
@@ -93,7 +107,7 @@
         {
             "type": "tv",
             "title": "EURO NEWS ENGLISH",
-            "tvgId": "12",
+            "tvgId": "14",
             "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",
             "groupTitle": "News",
             "streamUrl": "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8"
@@ -101,18 +115,10 @@
         {
             "type": "tv",
             "title": "DW English",
-            "tvgId": "13",
+            "tvgId": "15",
             "tvgLogo": "https://i.imgur.com/A1xzjOI.png",
             "groupTitle": "News",
             "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-        },
-        {
-            "type": "web",
-            "title": "Msnbc Live",
-            "tvgId": "1",
-            "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
-            "groupTitle": "News",
-            "streamUrl": "https://cdn.streamlive.to/live/streamlive-sd/streamlive-sd/21551.m3u8"
         }
     ]
 }
