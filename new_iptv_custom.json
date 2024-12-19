@@ -18,11 +18,11 @@
             "streamUrl": "https://stream.livenewspro.com:1936/msnbcpro/msnbcpro/chunklist_w1741750089_DVR_tkc2VjZW5kdGltZT0xNzM0NzA0NzE0JnNlY2hhc2g9Q0p5LVRhLXJqcWhvdzBiamZhVTFISV9JZWZJeG9lSlRWaHVfeEZrVmxROD0mc2Vjc3RhcnR0aW1lPTE3MzQ2MTgzMTQ=.m3u8"
         }, {
             "type": "tv",
-            "title": "Msnbc Live Radio",
+            "title": "Msnbc Live",
             "tvgId": "3",
             "tvgLogo": "https://m.media-amazon.com/images/I/31dWAvGOQQL.png",
             "groupTitle": "News",
-            "streamUrl": "https://tunein.cdnstream1.com/3511_96.aac/playlist.m3u8"
+            "streamUrl": "https://stream.livenewspro.com:1936/msnbcpro/msnbcpro/chunklist_w1741750089_DVR_tkc2VjZW5kdGltZT0xNzM0NzA0NzE0JnNlY2hhc2g9Q0p5LVRhLXJqcWhvdzBiamZhVTFISV9JZWZJeG9lSlRWaHVfeEZrVmxROD0mc2Vjc3RhcnR0aW1lPTE3MzQ2MTgzMTQ=.m3u8"
         },
         {
             "type": "tv",
